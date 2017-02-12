@@ -1,5 +1,5 @@
 {
-  "name": "grunt-if",
+  "name": "grunt-if-next",
   "description": "Conditionally run tasks",
   "version": "0.1.5",
   "homepage": "https://github.com/tylerbeck/grunt-if",
